@@ -20,5 +20,8 @@ https://create.arduino.cc/getting-started/plugin/welcome
 # NodeMCU Pinout
 <img src="https://i1.wp.com/www.teachmemicro.com/wp-content/uploads/2018/04/NodeMCUv3.0-pinout.jpg?ssl=1" />
 
+# Today's Contest
+https://www.hackerrank.com/day1-iot-bootcamp-kits-guntur
+
 # Contact
 Reach me on LinkedIn (<a href="https://www.linkedin.com/in/madhupiot/">Maddy</a>)
