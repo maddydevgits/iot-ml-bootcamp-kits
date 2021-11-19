@@ -10,6 +10,7 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 2. Tinkercad (<a href="https://tinkercad.com">Access Tinkercad</a>)
 3. Thingspeak (<a href="https://thingspeak.com">Access Thingspeak</a>)
 4. Google Colab (<a href="https://colab.research.google.com">Access Google Colab</a>)
+5. git (<a href="htts://git-scm.com">Download Git for Windows</a>)
 
 # NodeMCU Additional Board Manager URL
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
